@@ -26,7 +26,7 @@
             </div>
             <div class="col mb-3">
                 <label class="form-label">Description</label>
-                <textarea class="form-control" name="description" placeholder="Ruangan Pasien">{{ $product->description }}</textarea>
+                <textarea class="form-control" name="description" placeholder="Description">{{ $product->description }}</textarea>
             </div>
         </div>
         <div class="row">
